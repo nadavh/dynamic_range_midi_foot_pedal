@@ -11,9 +11,9 @@ My idea was to let the user choose the range they want, so... this pedal support
 
 ## Behavior
 * By default, the full range is used.
-* To change that, the user presses the blue side-button, which gives them 5 seconds (indicated by a blue light) to choose the range (You can end it sooner by pressing the button again).
+* A press on the blue side-button initiates range selection mode, which is enabled for 5 seconds. It's indicated by a blue light, and can be ended sooner, by an additional press on the button.
 * Range is chosen by moving the foot pedal back and forward, over the desired range.
-* After the range is set, it will saved to EEPROM (so it's not power depended).
+* After the range is set, it is saved to EEPROM (so it's not power depended).
 * Movements in the range are indicated by the green light (indicating MIDI commands are sent to the host) while movements outside of the range, are ignored.
 
 ## Software
