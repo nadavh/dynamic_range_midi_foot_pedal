@@ -23,11 +23,11 @@ Developed in C with the Arduino framework.
 Mostly 3d printed (PLA) and split to avoid support material, and to be strong (in terms of printing orientation).
 
 ### Additional parts:
-- Arduino Mini.
+- Arduino Micro.
 - 10 x 12mm M3 screws, washers and nuts.
 - 2 x 608 (8 x 22 x 7mm) bearings.
 - [Micro switch with LED](https://www.aliexpress.com/item/Free-shipping-50pcs-lot-size-12X12X7-3-push-button-Led-Tact-Switch-illuminated-switch/1428645429.html?spm=a2g0s.9042311.0.0.366c4c4dAUs27O).
-- Potentiometer.
+- B100K Potentiometer (e.g. https://www.aliexpress.com/item/1005001421294754.html).
 - A glue of your choice (I've used hot-glue).
 - 12 x Padding stickers (optional).
 
